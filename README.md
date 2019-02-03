@@ -1,4 +1,3 @@
-# Java_dev solutions
 
 **Question 1** : [Minimum Unique Array Sum](solution/minUniqueArraySum.java) <br/>
 **Input format:**<br/>
